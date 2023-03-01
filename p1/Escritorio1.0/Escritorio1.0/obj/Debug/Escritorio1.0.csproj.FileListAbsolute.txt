@@ -1,0 +1,10 @@
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\bin\Debug\Escritorio1.0.exe.config
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\bin\Debug\Escritorio1.0.exe
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\bin\Debug\Escritorio1.0.pdb
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\obj\Debug\Escritorio1.0.csproj.AssemblyReference.cache
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\obj\Debug\Escritorio1._0.Form1.resources
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\obj\Debug\Escritorio1._0.Properties.Resources.resources
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\obj\Debug\Escritorio1.0.csproj.GenerateResource.cache
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\obj\Debug\Escritorio1.0.csproj.CoreCompileInputs.cache
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\obj\Debug\Escritorio1.0.exe
+D:\RepoVisual\Escritorio\visual.net\p1\Escritorio1.0\Escritorio1.0\obj\Debug\Escritorio1.0.pdb
